@@ -1,0 +1,5 @@
+module gmp {
+    umbrella header "gmp.h"
+    link "gmp"
+    export *
+}
